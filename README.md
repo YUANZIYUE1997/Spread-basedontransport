@@ -10,9 +10,11 @@ File Naming
 For simplicity, please collect your files in a single folder with your PROJECT name [PROJECT]. Please save source codes and analysis results with a name indicating your PROJECT, the TRAVEL MODE or RESOURCE and the FUNCTION for the research, for example: SPREAD_train station_passenger.csv. There is an example for source code named SPREAD_SoGou_agentdata.py.(https://github.com/YUANZIYUE1997/Spread-basedontransport/blob/master/SPREAD_SoGou_agentdata.py).
 
 File Organization 
-Data from repeated analyses should be saved and submitted as separate files, numbered sequentially with project name (e.g.,SPREAD_train station_passenger_PROJECT01.csv and SPREAD_train station_passenger_PROJECT02.csv).Please avoid this situation. 
+Data from repeated analyses should be saved and submitted as separate files, numbered sequentially with project name (e.g.,PROJECT01_train station_passenger.csv and PROJECT02_train station_passenger.csv).Please avoid this situation. 
 
 File Description 
 Please also include a separate README file (.txt or .docx) that provides a description of the OBJECTIVE, DATA DESCRIPTION and FINAL RESULT of all data groups (like Agentdata from different resources or locations). Please define the file name as the name of its data group name(like AGENTDATA).
 
-THANKS VERY MUCH AND LETS DO IT!
+By the way, please indicate the source if you want to use the data in this project.
+
+THANKS VERY MUCH AND LET'S DO IT!
